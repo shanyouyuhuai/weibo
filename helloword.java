@@ -10,5 +10,7 @@ public class helloword{
 		eeeeeeeeeeeeeeee
 		fffffffffffffffff
 		womenbuyiyangdeshisheng
+		wwwwwwwwwwwwwwwwwwwwwww
+		mmmmmmmmmmmmmmmmmmmmmmmmm
 	}
 }
